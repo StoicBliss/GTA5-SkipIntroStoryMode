@@ -1,0 +1,9 @@
+*.zip
+*.asi
+*.obj
+*.exp
+*.lib
+*.log
+.vs/
+.DS_Store
+Thumbs.db
